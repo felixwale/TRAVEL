@@ -518,11 +518,7 @@ body{
     max-width: 100%;
 }
 
-#footer{
 
-    
-
-}
 
 .footer-link{
 
@@ -554,7 +550,7 @@ body{
 
 .menu{
 
-    display: none
+    display: none;
 }
 
 
