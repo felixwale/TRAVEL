@@ -539,7 +539,8 @@ body{
 }
 
 .Ftx{
-
+     
+    display: flex;
     font-family: Open Sans;
         font-size: 18px;
         font-weight: 400;
