@@ -1,5 +1,6 @@
 # Travel Website
-It's a website that guild clients or user to able see what the company is all about and also to able to navigate stress free.
+It's a website that help clients or users to able see what the company is all about and also to able to navigate stress free.
+The project was archieved using html(for markup) and css (for styling). Each section was group in seperate container in the body element by making used of the section element.
 
 
 
@@ -19,5 +20,5 @@ It's a website that guild clients or user to able see what the company is all ab
 
 ## Feedback
 
-If you have any feedback, please reach out to us at felixwale199@gmail.com
+If you have any feedback, please reach me  at felixwale199@gmail.com
 
