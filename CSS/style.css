@@ -152,7 +152,7 @@ body{
     width: 2em;
         background-color: #6C63FF;
         position: relative;
-        right: 750px;
+        right: 748px;
         bottom: 8em;
 }
 
@@ -306,7 +306,7 @@ body{
  
 .Mountain-img{
 
-    padding: 0em 2em;
+    padding: 0em 3.1em;
 }
 
 .Adventure-img{
@@ -348,7 +348,7 @@ body{
 .Mountain-label{
 
     position: relative;
-    left: -4em;
+    left: 6em;
     top: -2em;
     color: #fff;
 }
@@ -356,8 +356,8 @@ body{
 .reservation-label{
 
     position: relative;
-    top: -1em;
-    left: -1em;
+    top: -3em;
+    left: 0.7em;
     color: #fff;
 }
 
